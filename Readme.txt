@@ -6,6 +6,7 @@ Objective:
 - Make prediction model
 
 Key Points:
+- Used Data Pipelines for pre-data processing
 - Used ROC-AUCasscoringmetrics
 - Used different technique to handle imbalanced dataset
 - Used Cost Sensitive Techniques
