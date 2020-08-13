@@ -8,8 +8,8 @@
 - Make prediction model
 
 ##  Key Points:
-- Used Data Pipelines for pre-data processing
-- Used ROC-AUCasscoringmetrics
+- Used Data Pipelines for data pre-processing
+- Used ROC-AUC as scoring metrics
 - Used different technique to handle imbalanced dataset
 - Used Cost Sensitive Techniques
 - Used Data Sampling Techniques
